@@ -1,0 +1,7 @@
+logs
+venv
+.env
+.DS_Store
+__pycache__
+KBO_Crawling.ipynb
+test_codw.ipynb
